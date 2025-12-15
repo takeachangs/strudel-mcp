@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
 
+**[한국어](README.ko.md)** | English
+
 An MCP (Model Context Protocol) server that enables LLMs to work with [Strudel](https://strudel.cc/) - a live coding environment for music patterns. This server allows AI assistants to parse, analyze, generate, and transform Strudel patterns.
 
 ## What is Strudel?
